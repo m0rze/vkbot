@@ -9,7 +9,8 @@ class Config
     static public $secretKey = "";                // secret, заданный в Callback
     static public $apiVer = "5.131";              // версия API
     static public $allowedUserIds = array(        // список ID юзеров, которые могут отправлять информацию о количестве смартфонов
-        "395992118"
+        "123222212",
+        "313523423"
     );
     static public $groupID = "";                  // ID сообщества
     static public $postID = "1";                  // ID записи в сообществе, у которой отслеживается количество каментов
